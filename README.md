@@ -2,4 +2,4 @@
 Fusion of labeled and unlabeled data
 
 
-This repository contains code for the paper
+We will release the code after acceptance of the paper.
